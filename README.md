@@ -77,7 +77,7 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: *aakash@example.com*  
+- 📧 Email: *kushwaha1112002@gmail.com*  
 - 💼 LinkedIn: [linkedin.com/in/aakash-kumar-kushwaha](https://linkedin.com/in/aakash-kumar-kushwaha)  
 - 🌐 Portfolio: *Coming Soon...*
 
