@@ -57,7 +57,7 @@
 
 ### 👨‍💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-aakashkushwaha-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aakashkushwaha/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-aakashkushwaha-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kushwaha11/)
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/aakashkushwaha?theme=light&font=Fira+Code&ext=activity" alt="LeetCode Stats" />
@@ -78,7 +78,7 @@
 ### 📫 Contact Me
 
 - 📧 Email: *kushwaha1112002@gmail.com*  
-- 💼 LinkedIn: [linkedin.com/in/aakash-kumar-kushwaha](https://linkedin.com/in/aakash-kumar-kushwaha)  
+- 💼 LinkedIn: [linkedin.com/in/aakash-kumar-kushwaha](https://www.linkedin.com/in/aakash-kushwaha-2486b0285/)  
 - 🌐 Portfolio: *Coming Soon...*
 
 ---
